@@ -1,7 +1,10 @@
-# Book-Recommendation-System
+# Applications of Recomendation Systems in the Industry: Book-Recommendation-System
 jULY 27, 2023
 
-A book recommendation system is a type of recommendation system where we have to recommend similar books to the reader based on his interest. 
+A book recommendation system is a type of recommendation system where we have to recommend similar books to the reader based on his interest. The books recommendation system is used by online websites which provide ebooks like google play books, open library, good Read’s, etc.
+
+In this article, we will use the Collaborative based filtering method to build a book recommender system.
+
 ![1](https://github.com/Ameenah23/Book-Recommendation-System/assets/123785380/030de983-6379-4a44-a489-866818d2936b)
 
 ![2](https://github.com/Ameenah23/Book-Recommendation-System/assets/123785380/b34db26e-f6c6-4da6-a05c-4511788f7642)
